@@ -1,0 +1,27 @@
+*{
+  font-family:'Times New Roman';
+  color: black;
+}
+body{
+  background-color:white;
+}
+/* .title{
+  font-family:'Times New Roman';
+} */
+.button2{
+  background-color:red;
+  font-family: calibri;
+  color: white;
+}
+input{
+  background-color: white;
+}
+.butoncolor{
+  background-color: red;
+  color:white;
+  border:0;
+  padding:5px;
+  border-radius:3px;
+  font-family:calibri;
+  margin:10px;
+}
